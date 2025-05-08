@@ -1,10 +1,8 @@
-## The Journal of Virabelo 
+## The Undated Journal of Virabelo 
 
 ~
 
-***may/08/2025***
-
-Welcome to my journal. This markdown file is pretty much the 'meat & potatoes' of the repository.
+Welcome to my undated journal. This markdown file is pretty much the 'meat & potatoes' of the repository.
 
 I'm very excited to be back in my Virabelo project. It's been over a decade since I've done anything with it. 
 
