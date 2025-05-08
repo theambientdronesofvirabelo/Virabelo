@@ -24,4 +24,6 @@ Here are some of my favorite YouTube playlists:
 ___
 Here are a couple of my favorite music blogs:
 
-
+- [Yeah I Know It Sucks](https://yeahiknowitsucks.wordpress.com/)
+- [recent music heroes](https://agier.blogspot.com/) 
+___
