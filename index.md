@@ -4,11 +4,11 @@
 
 ***may/08/2025***
 
-Welcome to my journal. This markdown file is pretty much the 'meat & potatoes' of the website.
+Welcome to my journal. This markdown file is pretty much the 'meat & potatoes' of the repository.
 
 I'm very excited to be back in my Virabelo project. It's been over a decade since I've done anything with it. 
 
-My first Virabelo releases back then were more in the ambient/drone techno vein. This time around I think, that for the most part, I'll be concentrating on ambient drones. 
+My first Virabelo releases back then were more in the ambient/minimal/techno vein. This time around I think, that for the most part, I'll be concentrating on creating ambient drones. 
 
 I recently downloaded Mononoke, and am learning how to have fun with it.
 ![mononoke app](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/20250508_130349.jpg) 
