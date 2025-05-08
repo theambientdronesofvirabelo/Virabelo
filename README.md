@@ -10,6 +10,6 @@ Here are some of my ambient drone influences that I may or may not wear on my sl
 
 - [How To Disappear Completely](https://htdc.bandcamp.com/) 
 
+- [Stars of the Lid](https://starsofthelid.bandcamp.com) 
+
 - [The Lonely Bell](https://thelonelybell.bandcamp.com/) 
-
-
