@@ -2,7 +2,7 @@
 Welcome to the GitHub repository of all things Virabelo.
 Virabelo is my ambient/drone/journalism project. 
 
-Keep up to date with new journal posts @ [index.md](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/index.md)
+***New journal posts @ [index.md](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/index.md)***
 ___
 #### Social Media
 [Virabelo's Twitter](https://www.twitter.com/virabelomusic) 
