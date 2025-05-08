@@ -12,4 +12,3 @@ My first Virabelo releases back then were more in the ambient/minimal/techno vei
 
 I recently downloaded Mononoke, and am learning how to have fun with it.
 ![mononoke app](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/20250508_130349.jpg) 
-___
