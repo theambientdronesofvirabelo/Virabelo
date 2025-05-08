@@ -18,4 +18,6 @@ Here are some of my ambient drone influences that I may or may not wear on my sl
 ___
 Here are some of my favorite YouTube playlists:
 
--[the ambient drones of Bill Baxter Fan Club](https://youtube.com/playlist?list=PLMY7_Ye4uM5T1tQ58xCwTGqruAg-TV4LY&si=I8SxOOruoanqCDy9) 
+- [the ambient drones of Bill Baxter Fan Club](https://youtube.com/playlist?list=PLMY7_Ye4uM5T1tQ58xCwTGqruAg-TV4LY&si=I8SxOOruoanqCDy9)
+- [How To Disappear Completely - Seraphim Trilogy](https://youtube.com/playlist?list=PLMY7_Ye4uM5R8ch25XrkRkJu4WRCYPos8&si=whpY_IDWoCpq66ha)
+- 
