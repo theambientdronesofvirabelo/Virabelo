@@ -1,8 +1,9 @@
 ## The Journal of Virabelo 
 
 ~
+
 **may/08/2025**
-Welcome to my journal. This markdown file is pretty much the 'meat & potatos' of the website.
+Welcome to my journal. This markdown file is pretty much the 'meat & potatoes' of the website.
 
 I'm very excited to be back in my Virabelo project. It's been over a decade since I've anything with it. 
 
