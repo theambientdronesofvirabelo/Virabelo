@@ -10,5 +10,5 @@ I'm very excited to be back in my Virabelo project. It's been over a decade sinc
 My first Virabelo releases back then were more in the ambient/drone techno vein. This time around I think, that for the most part, I'll be concentrating on ambient drones. 
 
 I recently downloaded Mononoke, and am learning how to have fun with it.
-![mononoke app](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/20250508_125947.jpg) 
+![mononoke app](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/20250508_130349.jpg) 
 ___
