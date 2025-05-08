@@ -25,5 +25,5 @@ ___
 Here are a couple of my favorite music blogs:
 
 - [Yeah I Know It Sucks](https://yeahiknowitsucks.wordpress.com/)
-- [recent music heroes](https://agier.blogspot.com/) 
+- [Recent Music Heroes](https://agier.blogspot.com/) 
 ___
