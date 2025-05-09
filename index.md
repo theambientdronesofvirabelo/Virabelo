@@ -5,7 +5,7 @@
 
 new virabelo logo
 
-~
+✠
 
 Welcome to my undated journal. This markdown file is pretty much the 'meat & potatoes' of the repository.
 
