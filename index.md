@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+I made an account of [freesound.org](https://freesound.org) where I plan to upload field recordings that I create. I plan for them to be licensed under CC BY 4.0 so feel free to use what you like while giving Virabelo a line in your credits section. 
+
+[Here's my first upload](https://freesound.org/people/virabelo/sounds/804964/). I made it two Augusts ago when we were waiting for a table outside of Clancy's By The Sea on the boardwalk of Ocean City, New Jersey.
+
+✵
 
 ![virabelo logo](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/virabelo%20logo.jpg) 
 
