@@ -1,6 +1,5 @@
 # The Undated Journal of Virabelo 
 
-~
 
 ![virabelo logo](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/virabelo%20logo.jpg) 
 
