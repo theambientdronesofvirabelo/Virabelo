@@ -1,5 +1,11 @@
 # The Undated Journal of Virabelo 
 
+I started a Virabelo YouTube channel. In this introductory video, I share the setup that I plan to use on Drone Day 2025.
+
+[![](https://utfs.io/f/nGnSqDveMsqxGZHl2zQBiAVxUFjPX6rgvNWKIkq8lnObd204)](https://www.youtube.com/watch?v=-hBsdCq_u20)
+
+✵
+
 Here's a [field recording](https://freesound.org/people/virabelo/sounds/804969/) that I made in April of 2023 when I went to go pickup lunch at the New Bamboo Garden. They have a wonderful Singapore Mei Fun there too.
 
 ✵
