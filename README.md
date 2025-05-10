@@ -19,12 +19,6 @@ Here are some of my ambient drone influences:
 - [Stars of the Lid](https://starsofthelid.bandcamp.com) 
 - [The Lonely Bell](https://thelonelybell.bandcamp.com/) 
 ___
-Here are some of my favorite YouTube playlists:
-
-- [the ambient drones of Bill Baxter Fan Club](https://youtube.com/playlist?list=PLMY7_Ye4uM5T1tQ58xCwTGqruAg-TV4LY&si=I8SxOOruoanqCDy9)
-- [How To Disappear Completely - Seraphim Trilogy](https://youtube.com/playlist?list=PLMY7_Ye4uM5R8ch25XrkRkJu4WRCYPos8&si=whpY_IDWoCpq66ha)
-- [The Lonely Bell Fan Club](https://youtube.com/playlist?list=PLMY7_Ye4uM5QxZ0OBaid-VyCap1R3ZyTo&si=bCnyhS1-SF_teyY-)
-___
 Here are a couple of my favorite music blogs:
 
 - [Yeah I Know It Sucks](https://yeahiknowitsucks.wordpress.com/)
