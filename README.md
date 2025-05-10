@@ -17,7 +17,9 @@ Here are some of my ambient drone influences:
 - [the ambient drones of Bill Baxter](https://billbaxter.bandcamp.com/) 
 - [How To Disappear Completely](https://htdc.bandcamp.com/) 
 - [Stars of the Lid](https://starsofthelid.bandcamp.com) 
-- [The Lonely Bell](https://thelonelybell.bandcamp.com/) 
+- [The Lonely Bell](https://thelonelybell.bandcamp.com/)
+- [Louigi Verona](https://louigi.bandcamp.com/)
+- [loscil](https://loscil.bandcamp.com/)
 ___
 Here are a couple of my favorite music blogs:
 
