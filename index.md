@@ -1,6 +1,6 @@
 # The Undated Journal of Virabelo 
 
-I started a Virabelo YouTube channel. In this introductory video, I share the setup that I plan to use on Drone Day 2025.
+I started a Virabelo YouTube channel. Here's an introductory video where I share the setup that I plan to use on [Drone Day 2025](https://droneday.org).
 
 [![](https://utfs.io/f/nGnSqDveMsqxGZHl2zQBiAVxUFjPX6rgvNWKIkq8lnObd204)](https://www.youtube.com/watch?v=-hBsdCq_u20)
 
