@@ -8,6 +8,7 @@ ___
 - [YouTube](https://youtube.com/@theambientdronesofvirabelo) 
 - [Twitter](https://www.twitter.com/virabelomusic) 
 - [Freesound.org](https://freesound.org/people/virabelo/ ) 
+- [Reddit](https://www.reddit.com/user/TimeEfficient1588/ ) 
 
 *I might make an Instagram account soon, we'll see*
 ___
