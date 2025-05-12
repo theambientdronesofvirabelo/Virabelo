@@ -1,6 +1,6 @@
 # The Undated Journal of Virabelo 
 
-Since my freesound.org field recording submissions are still waiting moderation approval, I figured I'd make an [archive.org account](https://archive.org/details/@virabelo) and have [a page where I'll post past and future field recordings](https://archive.org/details/thefieldrecordongsofvirabelo). 
+Since my freesound.org field recording submissions are still waiting for moderation approval, I figured I'd make an [archive.org account](https://archive.org/details/@virabelo) and have [a page where I'll post past and future field recordings](https://archive.org/details/thefieldrecordongsofvirabelo). 
 
 ✵
 
