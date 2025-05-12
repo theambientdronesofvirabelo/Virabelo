@@ -1,5 +1,9 @@
 # The Undated Journal of Virabelo 
 
+Since my freesound.org field recording submissions are still waiting moderation approval, I figured I'd make an archive.org account and have [a page where I'll post past and future field recordings](https://archive.org/details/thefieldrecordongsofvirabelo). 
+
+✵
+
 I started a Virabelo YouTube channel. Here's an introductory video where I share the setup that I plan to use on [Drone Day 2025](https://droneday.org).
 
 [![](https://utfs.io/f/nGnSqDveMsqxGZHl2zQBiAVxUFjPX6rgvNWKIkq8lnObd204)](https://www.youtube.com/watch?v=-hBsdCq_u20)
