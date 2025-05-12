@@ -5,7 +5,7 @@ Virabelo is my ambient/drone/journalism project.
 ***New journal posts @ [index.md](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/index.md)***
 ___
 #### Virabelo on the Interwebs
--[Internet Archive](https://archive.org/details/@virabelo) 
+- [Internet Archive](https://archive.org/details/@virabelo) 
 - [YouTube](https://youtube.com/@theambientdronesofvirabelo) 
 - [Twitter](https://www.twitter.com/virabelomusic) 
 - [Freesound](https://freesound.org/people/virabelo/ ) 
