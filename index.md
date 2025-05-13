@@ -1,5 +1,19 @@
 # The Undated Journal of Virabelo 
 
+Two more field recordings were made and uploaded today. The first one was recorded by the west fountain of Glen Lake, 
+
+![Glen Lake](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/2025_05_13-12_27_37.jpg)
+
+and the second one was recorded by the Virgin Mary statue at Our Lady Queen of Peace. 
+
+![Our Lady Queen of Peace](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/2025_05_13-12_49_49.jpg) 
+
+You can grab them @ [The Field Recordings of Virabelo Internet Archive Page](https://archive.org/details/thefieldrecordongsofvirabelo). 
+
+They'll also be [available on freesound.org](https://freesound.org/people/virabelo/ ) once they have moderator approval. 
+
+✵
+
 Since my freesound.org field recording submissions are still waiting for moderation approval, I figured I'd make an [archive.org account](https://archive.org/details/@virabelo) and have [a page where I'll upload field recordings that I make](https://archive.org/details/thefieldrecordongsofvirabelo). 
 
 ✵
