@@ -9,7 +9,7 @@ ___
 - [YouTube](https://youtube.com/@theambientdronesofvirabelo) 
 - [Twitter](https://www.twitter.com/virabelomusic) 
 - [Freesound](https://freesound.org/people/virabelo/ ) 
-- [Reddit](https://www.reddit.com/user/TimeEfficient1588/ ) 
+- [SoundCloud](https://www.soundcloud.com/virabelo) 
 
 *I might make an Instagram account soon, we'll see*
 ___
