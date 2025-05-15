@@ -1,5 +1,12 @@
 # The Undated Journal of Virabelo 
 
+Today I'm practicing the track, Oblation, which I plan to perform on Drone Day 2025. [I uploaded one of the practice sessions to SoundCloud](https://on.soundcloud.com/uhXDqutok3s11jf28). 
+
+also put it up onto YouTube as well 
+[![](https://utfs.io/f/nGnSqDveMsqxntGU0MveMsqxcS0jAuaHT6tpP25klGNID1fb)](https://www.youtube.com/watch?v=mptm-PH7Ki0)
+
+✵
+
 Two more field recordings were made and uploaded today. The first one was recorded by the west fountain of Glen Lake, 
 
 ![Glen Lake](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/2025_05_13-12_27_37.jpg)
