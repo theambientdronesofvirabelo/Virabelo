@@ -1,6 +1,6 @@
 # The Undated Journal of Virabelo 
 
-Today I'm practicing the track, Oblation, which I plan to perform on Drone Day 2025. [I uploaded one of the practice sessions to SoundCloud](https://on.soundcloud.com/uhXDqutok3s11jf28). 
+Today I'm experimenting with a track called Oblation which I plan to perform on Drone Day 2025. [I uploaded one of the practice sessions to SoundCloud](https://on.soundcloud.com/uhXDqutok3s11jf28). 
 
 also put it up onto YouTube as well 
 [![](https://utfs.io/f/nGnSqDveMsqxntGU0MveMsqxcS0jAuaHT6tpP25klGNID1fb)](https://www.youtube.com/watch?v=mptm-PH7Ki0)
