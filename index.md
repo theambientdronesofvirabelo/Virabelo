@@ -1,5 +1,11 @@
 # The Undated Journal of Virabelo 
 
+It's one week away from [Drone Day 2025](https://droneday.org). Here's a YouTube of my updated setup. 
+
+[![](https://utfs.io/f/nGnSqDveMsqx1CEixsZUf35nPiQaVC0pmJ4YhdycxWgvH2F7)](https://www.youtube.com/watch?v=w2dI9aRm4RY)
+
+✵
+
 Today I'm experimenting with a track called Oblation which I plan to perform on Drone Day 2025. [I uploaded one of the practice sessions to SoundCloud](https://on.soundcloud.com/uhXDqutok3s11jf28). 
 
 also put it up onto YouTube as well 
