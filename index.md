@@ -1,5 +1,13 @@
 # The Undated Journal of Virabelo 
 
+It's Drone Day Eve! I recorded a Drone Day Eve 2025 mix of Oblation, the track that I plan to perform tomorrow. I have art for it too but GitHub is giving me Commit errors when trying to upload it to the media folder. 
+
+I put it up on [Internet Archive](https://archive.org/details/oblation-drone-day-eve-2025-mix) and [SoundCloud](https://soundcloud.com/virabelo/oblation-drone-day-eve-2025). 
+
+Looking forward to performing it for YouTube tomorrow. 
+
+✵
+
 It's one week away from [Drone Day 2025](https://droneday.org). Here's a YouTube of my updated setup. 
 
 [![](https://utfs.io/f/nGnSqDveMsqx1CEixsZUf35nPiQaVC0pmJ4YhdycxWgvH2F7)](https://www.youtube.com/watch?v=w2dI9aRm4RY)
