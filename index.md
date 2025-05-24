@@ -1,6 +1,6 @@
 # The Undated Journal of Virabelo 
 
-Happy Drone Day folks! To celebrate Drone Day 2025, I made a video of a live performance of a track I made called "Oblation." I would have streamed the performance live, but I'm not eligible yet as I don't have at least 50 YouTube subscribers yet. Below is the link to the video...atm the webapp that I use to make YouTube thumbnails is down:
+Happy Drone Day folks! To celebrate Drone Day 2025, I made a video of a live performance of a track I made called "Oblation." I would have streamed the performance live, but I'm not eligible as I don't have at least 50 YouTube subscribers yet. Below is the link to the video...atm the webapp that I use to make YouTube thumbnails is down:
 
 [Happy Drone Day! Live Performance of "Oblation"](https://youtu.be/ghOwI8IxF50?si=Qs0zFhxeA4x73eCX) 
 
