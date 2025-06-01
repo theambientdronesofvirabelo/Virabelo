@@ -5,6 +5,7 @@ Happy Drone Day folks! To celebrate Drone Day 2025, I made a video of a live per
 [Happy Drone Day! Live Performance of "Oblation"](https://youtu.be/ghOwI8IxF50?si=Qs0zFhxeA4x73eCX) 
 
 ✵
+
 It's Drone Day Eve! I recorded a Drone Day Eve 2025 mix of Oblation, the track that I plan to perform tomorrow. 
 
 ![Drone Day 2025 Eve Mix Artwork](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/oblationdronedayeve2025mix.jpg)  
