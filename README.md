@@ -11,8 +11,6 @@ ___
 - [Twitter](https://www.twitter.com/virabelomusic) 
 - [Freesound](https://freesound.org/people/virabelo/ ) 
 - [SoundCloud](https://www.soundcloud.com/virabelo) 
-
-*I might make an Instagram account soon, we'll see*
 ___
 Here are some of my ambient drone influences:
 
