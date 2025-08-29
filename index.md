@@ -1,5 +1,11 @@
 # The Undated Journal of Virabelo 
 
+Today I performed and recorded a new ambient drone. I've been working on it for about a month now so it's nice to finally get it locked down in the digital forever. Originally I named it "mimas" as a tribute to a sunrizer preset that is used in the track. However, after I transferred the recording to my pc for post production, I accidentally titled it minas. After looking up online all the possible meanings of minas, I figured this name for the title will be just fine. 
+
+Internet Archive is marking my uploads as spam atm. But you can check out the release in the meantime on [YouTube](https://youtu.be/OWVFt4ZEdSE?si=UhosFYRSfFU6-iu7), [Bandcamp](https://virabelo.bandcamp.com/track/minas), and [SoundCloud](https://soundcloud.com/virabelo/minas). 
+
+✵
+
 Happy Drone Day folks! To celebrate Drone Day 2025, I made a video of a live performance of a track I made called "Oblation." I would have streamed the performance live, but I'm not eligible as I don't have at least 50 YouTube subscribers yet. Below is the link to the video...atm the webapp that I use to make YouTube thumbnails is down:
 
 [Happy Drone Day! Live Performance of "Oblation"](https://youtu.be/ghOwI8IxF50?si=Qs0zFhxeA4x73eCX) 
@@ -10,7 +16,7 @@ It's Drone Day Eve! I recorded a Drone Day Eve 2025 mix of Oblation, the track t
 
 ![Drone Day 2025 Eve Mix Artwork](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/oblationdronedayeve2025mix.jpg)  
 
-I put it up on [Internet Archive](https://archive.org/details/oblation-drone-day-eve-2025-mix) and [SoundCloud](https://soundcloud.com/virabelo/oblation-drone-day-eve-2025). 
+I put it up on [Internet Archivevc ](https://archive.org/details/oblation-drone-day-eve-2025-mix) and [SoundCloud](https://soundcloud.com/virabelo/oblation-drone-day-eve-2025). 
 
 Looking forward to performing it for YouTube tomorrow. 
 
