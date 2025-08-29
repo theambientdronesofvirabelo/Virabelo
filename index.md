@@ -1,4 +1,5 @@
 # The Undated Journal of Virabelo 
+
 ![minas cover](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/minas.png)
 Today I performed and recorded a new ambient drone. I've been working on it for about a month now so it's nice to finally get it locked down in the digital forever. Originally I named it "mimas" as a tribute to a sunrizer preset that is used in the track. However, after I transferred the recording to my pc for post production, I accidentally titled it minas. After looking up online all the possible meanings of minas, I figured this name for the title will be just fine. 
 
