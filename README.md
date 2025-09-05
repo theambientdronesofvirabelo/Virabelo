@@ -19,6 +19,7 @@ Here are some of my ambient drone influences:
 - [Stars of the Lid](https://starsofthelid.bandcamp.com) 
 - [The Lonely Bell](https://thelonelybell.bandcamp.com/)
 - [Louigi Verona](https://louigi.bandcamp.com/)
+- [James Shain](https://moodydrones.bandcamp.com/album/the-nagual-sessions) 
 - [loscil](https://loscil.bandcamp.com/)
 ___
 Here are a couple of my favorite music blogs:
