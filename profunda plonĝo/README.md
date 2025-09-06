@@ -7,3 +7,4 @@
 
 ---
 [indekso](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/profunda%20plon%C4%9Do/indekso.md) 
+---
