@@ -5,5 +5,6 @@
 
 [AES Crypto sur GitHub](https://github.com/evgenyneu/aes-crypto-web) 
 
----
-[indekso] (https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/profunda%20plon%C4%9Do/indekso.md) 
+✵
+
+[indekso](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/profunda%20plon%C4%9Do/indekso.md) 
