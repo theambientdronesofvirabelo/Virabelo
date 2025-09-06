@@ -1,7 +1,7 @@
 # Legu Min
 [https://aescrypto.com/ ](https://aescrypto.com/) 
 
-[Pri AES Crypto](https://aescrypto.com/help/)
+[Pri AES Crypton](https://aescrypto.com/help/)
 
 [AES Crypto ĉe GitHub](https://github.com/evgenyneu/aes-crypto-web) 
 
