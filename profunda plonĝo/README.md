@@ -3,7 +3,7 @@
 
 [Pri AES Crypto](https://aescrypto.com/help/)
 
-[AES Crypto sur GitHub](https://github.com/evgenyneu/aes-crypto-web) 
+[AES Crypto ĉe GitHub](https://github.com/evgenyneu/aes-crypto-web) 
 
 ✵
 
