@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+![pensema](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20pensema.png) 
+[Pensema is now available](https://archive.org/details/virabelo-pensema). 
+
+✵
+
 ![sovaĝinfano cover](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover-%20sova%C4%9Dinfano.png) 
 A new ambient drone called "Sovaĝinfano" is [now available](https://archive.org/details/virabelo-sovaginfano). I performed and recorded live in AUM on my iPad. 
 
@@ -87,5 +92,5 @@ I'm very excited to be back in my Virabelo project. It's been over a decade sinc
 
 The releases back then were more in the ambient/minimal/techno vein. This time around I think, that for the most part, I'll be concentrating on creating ambient drones. 
 
-I recently downloaded Mononoke, and am learning how to have fun with it.
+I recently downloaded Mononoke and am learning how to have fun with it.
 ![mononoke app](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/20250508_130349~2.jpg) 
