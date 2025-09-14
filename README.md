@@ -23,6 +23,14 @@ Here are some of my ambient drone influences:
 - [James Shain](https://moodydrones.bandcamp.com/album/moody-drones-volume-2) 
 - [loscil](https://loscil.bandcamp.com/)
 ___
+
+Here are some of my favorite Internet radio streams:
+
+- [Soma.fm: The Drone Zone](https://somafm.com/dronezone/) 
+- [Ambient Underground](https://ambientunderground.org)
+- 
+___
+
 Here are a couple of my favorite music blogs:
 
 - [Yeah I Know It Sucks](https://yeahiknowitsucks.wordpress.com/)
