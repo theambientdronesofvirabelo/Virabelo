@@ -26,9 +26,9 @@ ___
 
 Here are some of my favorite Internet radio streams:
 
-- [Soma.fm: The Drone Zone](https://somafm.com/dronezone/) 
+- [SomaFM: Drone Zone](https://somafm.com/dronezone/) 
 - [Ambient Underground](https://ambientunderground.org)
-- 
+- [Ambient Sleeping Pill](https://ambientsleepingpill.com) 
 ___
 
 Here are a couple of my favorite music blogs:
