@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+![ebenaĵaŝtormo](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20ebena%C4%B5a%C5%9Dtormo.png) 
+[Ebenaĵaŝtormo is now available](https://archive.org/details/virabelo-ebenajastormo). I call it ebenaĵaŝtormo because the vibe reminds me of a storm brewing over a plain. 
+
+✵
+
 ![pensema](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20pensema.png) 
 [Pensema is now available](https://archive.org/details/virabelo-pensema). 
 
