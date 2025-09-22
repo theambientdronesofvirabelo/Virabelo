@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+![ŝveliĝanta latuno](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20%C5%9Dveli%C4%9Danta%20latuno.png) 
+[Ŝveliĝanta Latuno is now available](https://archive.org/details/virabelo-sveliganta-latuno) 
+
+✵
+
 ![ebenaĵaŝtormo](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20ebena%C4%B5a%C5%9Dtormo.png) 
 [Ebenaĵaŝtormo is now available](https://archive.org/details/virabelo-ebenajastormo). I call it ebenaĵaŝtormo because the vibe reminds me of a storm brewing over a plain. 
 
