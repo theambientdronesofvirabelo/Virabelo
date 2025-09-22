@@ -1,7 +1,7 @@
 # The Undated Journal of Virabelo 
 
 ![ŝveliĝanta latuno](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20%C5%9Dveli%C4%9Danta%20latuno.png) 
-[Ŝveliĝanta Latuno is now available](https://archive.org/details/virabelo-sveliganta-latuno) 
+[Ŝveliĝanta Latuno is now available](https://archive.org/details/virabelo-sveliganta-latuno). 
 
 ✵
 
