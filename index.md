@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+![Watson & Hyde](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20Watson%20%26%20Hyde.png) 
+[Watson & Hyde is now online](https://archive.org/details/Virabelo-Watson-Hyde). 
+
+✵
+
 ![ŝveliĝanta latuno](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20%C5%9Dveli%C4%9Danta%20latuno.png) 
 [Ŝveliĝanta Latuno is now available](https://archive.org/details/virabelo-sveliganta-latuno). 
 
