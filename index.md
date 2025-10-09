@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+![esperplena fantomo](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20esperplena%20fantomo.png) 
+[esperplena fantomo](https://archive.org/details/Virabelo-esperplena-fantomo) 
+
+✵
+
 ![Watson & Hyde](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20Watson%20%26%20Hyde.png) 
 [Watson & Hyde is now online](https://archive.org/details/Virabelo-Watson-Hyde). 
 
@@ -108,4 +113,4 @@ I'm very excited to be back in my Virabelo project. It's been over a decade sinc
 The releases back then were more in the ambient/minimal/techno vein. This time around I think, that for the most part, I'll be concentrating on creating ambient drones. 
 
 I recently downloaded Mononoke and am learning how to have fun with it.
-![mononoke app](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/20250508_130349~2.jpg) 
+![mononoke app](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/20250508_130349~2.jpg)  
