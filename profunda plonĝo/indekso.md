@@ -1,5 +1,11 @@
 # Taglibro 
 
+**oct/21/25**
+![lancaster field](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/profunda%20plon%C4%9Do/eroj/1000055141.jpg) 
+AESCryptoV109ad3ea599c5976ddf7f022e33465b8b48c03cf64c5f37a6c89da4745a2e96320391a32359017ad8b4e7e18fafa6495e84396535af91da1a0e573706b4190eb8b9eada87b97a15d35
+
+___
+
 **sep/26/25**
 ![shore sunrise](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/profunda%20plon%C4%9Do/eroj/1000054121.jpg) 
 AESCryptoV100ea83601f453d48266553e14c7fbc6d7aca98a47c5b8f620
