@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+![monolito single](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20monolito%20(single)%20-%20cover.png) 
+[Here's the featured single](https://virabelo.bandcamp.com/track/monolito) from the upcoming full-length album, Monolito, which should be out by the end of December 2025.
+
+✵
+
 ![Fanto](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20Fanto.png) 
 [Fanto](https://archive.org/details/virabelo-fanto) 
 
