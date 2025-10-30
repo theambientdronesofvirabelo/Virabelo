@@ -1,5 +1,8 @@
 # The Undated Journal of Virabelo 
 
+![nova mistero](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20nova%20mistero.png) 
+[Here's what came out to be a sister track to Monolito](https://archive.org/details/nova-mistero-single). It's called Nova Mistero, which means 'new mystery' in Esperanto. I'm thinking that the name of the album will be Nova Mistero. It has a very nice ring to it. Monolito will still be included in the album. 
+
 ![monolito single](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20monolito%20(single)%20-%20cover.png) 
 [Here's the featured single](https://virabelo.bandcamp.com/track/monolito) from the upcoming full-length album, Monolito, which should be out by the end of December 2025.
 
