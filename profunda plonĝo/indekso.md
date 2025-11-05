@@ -1,6 +1,6 @@
 # Taglibro 
 
-** nov/05/25**
+**nov/05/25**
 ![autumn park walk](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/profunda%20plon%C4%9Do/eroj/1000055806.jpg) 
 AESCryptoV10f7d763b1043f28dfe30876f07e09ac5cc0742ed3abbcc001512d09194fedc95f9c9b5fb3cf68d177b4e0ffbcfbb73134add493954b537402c9e8c55a347192103c02bc4c7eed2cee92f803cdf0d562573208dab5fcdbb2ee26d18d811d5e8c3bd3e5ceef45aa52d2c6a75687cef35328d9f10655664295c94fcc827424ff3ab2371327b0a589f43e19d81eb4425d39a071315c6a40efcfae01f7637d9c32105301d249f49509c4dcf1df2a66e77d68503c8b5d72e489fdbd
 
