@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+![Nova Mistero YouTube](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000057508.jpg) 
+The album is finished and now I'm in the process of getting things all set for release day. It should be available December 19th, although the 12th could be a possibility too. 
+
+✵
+
 ![nova mistero](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover%20-%20nova%20mistero.png) 
 [Here's what came out to be a sister track to Monolito](https://archive.org/details/nova-mistero-single). It's called Nova Mistero, which means 'new mystery' in Esperanto. I'm thinking that the name of the album will be Nova Mistero. It has a very nice ring to it. Monolito will still be included in the album. 
 
