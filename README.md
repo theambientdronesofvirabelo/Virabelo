@@ -9,6 +9,7 @@ ___
 - [Bandcamp](https://virabelo.bandcamp.com) 
 - [Mastodon](https://mastodon.social/@virabelo) 
 - [YouTube](https://youtube.com/@theambientdronesofvirabelo) 
+- [Threads](https://www.threads.com/@virabelo.drone) 
 - [Twitter](https://www.twitter.com/virabelomusic) 
 - [Freesound](https://freesound.org/people/virabelo/ ) 
 - [SoundCloud](https://www.soundcloud.com/virabelo) 
