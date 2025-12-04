@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+![Nova Mistero Trading Card](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000058085.jpg) 
+The collectible trading cards for Nova Mistero came in today and they look great. These will be avaliable on bandcamp when the album is released, which will hopefully be next Friday. 
+
+✵
+
 ![Nova Mistero YouTube](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000057508.jpg) 
 The album is finished and now I'm in the process of getting things all set for release day. It should be available December 19th, although the 12th could be a possibility too. 
 
