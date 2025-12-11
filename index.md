@@ -1,5 +1,10 @@
 # The Undated Journal of Virabelo 
 
+To celebrate my album release tomorrow, I made an epic 90+ minute ambient mix that features artists who influence my Virabelo project. 
+[I put it up on mixcloud.](https://www.mixcloud.com/virabelo/cosmic-affinity-mix/)
+
+✵
+
 ![Nova Mistero Trading Card](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000058085.jpg) 
 The collectible trading cards for Nova Mistero came in today and they look great. These will be avaliable on bandcamp when the album is released, which will hopefully be next Friday. 
 
