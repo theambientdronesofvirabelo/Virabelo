@@ -1,6 +1,6 @@
 # The Undated Journal of Virabelo 
 
-![Nova Mistero cover]![Nova Mistero cover](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover.png) 
+![Nova Mistero cover](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover.png) 
 Nova Mistero is now online! You can download & and stream free @ [https://archive.org/details/novamistero](https://archive.org/details/novamistero) If you like the album and want to support my hobby, for a $5 USD gift you can purchase it on [Bandcamp](https://virabelo.bandcamp.com/album/nova-mistero) which includes a free collectible trading card (while supplies last) to anyone who lives in the countries listed [here](https://pe.usps.com/text/imm/immctry.htm). Just email me a copy of your bandcamp purchase receipt along with your postal address and I'll mail one out to you. 
 
 ✵
