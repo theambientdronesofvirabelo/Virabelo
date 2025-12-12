@@ -1,5 +1,11 @@
 # The Undated Journal of Virabelo 
 
+![Nova Mistero cover](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover.png) 
+Nova Mistero is now online! You can download & and stream free @ [https://archive.org/details/novamistero](https://archive.org/details/novamistero) It's also [available on Bandcamp](https://virabelo.bandcamp.com/album/nova-mistero) for $5 USD, which includes a free collectible trading card (while supplies last) to anyone who lives in the countries listed [here](https://pe.usps.com/text/imm/immctry.htm). 
+
+
+✵
+
 To celebrate my album release tomorrow, I made an epic 90+ minute ambient mix that features artists who influence my Virabelo project. 
 [I put it up on mixcloud.](https://www.mixcloud.com/virabelo/cosmic-affinity-mix/)
 
