@@ -6,7 +6,7 @@ Virabelo is my ambient drone project.
 ___
 #### Virabelo on the Interwebs
 - [Internet Archive](https://archive.org/details/@virabelo) 
-- [Bandcamp](https://virabelo.bandcamp.com) ] 
+- [Bandcamp](https://virabelo.bandcamp.com)  
 - [Mastodon](https://mastodon.social/@virabelo) 
 - [Mixcloud](https://www.mixcloud.com/virabelo/) 
 - [YouTube](https://youtube.com/@theambientdronesofvirabelo) 
