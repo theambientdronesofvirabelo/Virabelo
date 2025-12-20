@@ -3,6 +3,8 @@ Welcome to the GitHub repository of all things Virabelo.
 Virabelo is my ambient drone project. 
 
 ***New journal posts @ [index.md](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/index.md)***
+
+***Latest Release: Nova Mistero [LP]![Nova Mistero](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/nova%20Misterosmall.Jpg) 
 ___
 #### Virabelo on the Interwebs
 - [Internet Archive](https://archive.org/details/@virabelo) 
