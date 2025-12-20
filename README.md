@@ -6,7 +6,7 @@ Virabelo is my ambient drone project.
 
 ***Latest Release: Nova Mistero [LP]***
 
-![Nova Mistero] (https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/nova%20Misterosmall.Jpg) 
+![Nova Mistero] (https://raw.githubusercontent.com/theambientdronesofvirabelo/Virabelo/refs/heads/main/media/nova%20mistero-small.jpg) 
 ___
 #### Virabelo on the Interwebs
 - [Internet Archive](https://archive.org/details/@virabelo) 
