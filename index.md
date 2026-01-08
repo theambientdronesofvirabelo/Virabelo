@@ -1,7 +1,13 @@
 # The Undated Journal of Virabelo 
 
+[Nova Mistero is now available on freemusicarchive.org](https://freemusicarchive.org/music/virabelo/nova-mistero)! 
+Fun fact: All of Virabelo's music is licensed under [Creative Commons CC BY](https://creativecommons.org/licenses/by/4.0/deed.en), so feel free to use any of the music for your videos/games/multimedia projects/etc. free of charge, simply give Virabelo credit for the music.
+
+✵
+
 ![Nova Mistero cover](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/00%20-%20cover.png) 
 Nova Mistero is now online! You can download & stream free @ [https://archive.org/details/novamistero](https://archive.org/details/novamistero) If you like the album and want to support my hobby, for a $5 USD gift you can purchase it on [Bandcamp](https://virabelo.bandcamp.com/album/nova-mistero) which includes a free collectible trading card (while supplies last) to anyone who lives in the countries listed [here](https://pe.usps.com/text/imm/immctry.htm). Just email me a copy of your bandcamp purchase receipt along with your postal address and I'll mail one out to you. 
+
 
 ✵
 
