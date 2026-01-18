@@ -1,5 +1,11 @@
 # Taglibro 
 
+**jan/18/26**
+![airport](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/profunda%20plon%C4%9Do/eroj/1000059694.jpg) 
+AESCryptoV102d8aff8bd1642ea7939eb566856bfb99bb8d52648808e20932b3da3526804efcb51034a0c41520430189afb731fbed43cce164d123725ea3
+
+___
+
 **dec/06/25**
 AESCryptoV10480aca3d73c52d8eaf41a558b2e36859d524a77303287eb13c409e3f258ea228648749ea51897e7710a5dd3c6959b7775b15efb2166ccd4e022abf8e53cb23cadc3791841f0658e5
 
