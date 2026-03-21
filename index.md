@@ -1,4 +1,9 @@
 # The Undated Journal of Virabelo 
+![FMA screenshot](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000062108.png) 
+Shortly after releasing Nova Mistero, I licensed all of its music under Creative Commons and just recently out that the track, Indas, was used by the talented jazz saxophonist, Julian Overall, for the backdrop of one of his exquisite sax explorations. 
+[Check it out here](https://freemusicarchive.org/music/musical-meanderings/organic-oddities/splicer/) 
+
+✵
 
 [Nova Mistero is now available on freemusicarchive.org](https://freemusicarchive.org/music/virabelo/nova-mistero)! 
 Fun fact: All of Virabelo's music is licensed under [Creative Commons CC BY](https://creativecommons.org/licenses/by/4.0/deed.en), so feel free to use any of the music for your videos/games/multimedia projects/etc. free of charge, simply give Virabelo credit for the music.
