@@ -13,14 +13,13 @@ ___
 #### Virabelo on the Interwebs
 - [Free Music Archive](https://freemusicarchive.org/music/virabelo/) 
 - [Internet Archive](https://archive.org/details/@virabelo) 
-- [Bandcamp](https://virabelo.bandcamp.com)  
+- [Bandcamp](https://virabelo.bandcamp.com)
+- [Freesound](https://freesound.org/people/virabelo/ )  
 - [Mastodon](https://mastodon.social/@virabelo) 
 - [Mixcloud](https://www.mixcloud.com/virabelo/) 
 - [YouTube](https://youtube.com/@theambientdronesofvirabelo) 
 - [Threads](https://www.threads.com/@virabelo.drone) 
 - [Twitter](https://www.twitter.com/virabelomusic) 
-- [Freesound](https://freesound.org/people/virabelo/ ) 
-- [SoundCloud](https://www.soundcloud.com/virabelo) 
 ___
 Here are some of my ambient drone influences:
 
