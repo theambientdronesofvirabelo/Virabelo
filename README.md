@@ -19,7 +19,10 @@ ___
 - [Mixcloud](https://www.mixcloud.com/virabelo/) 
 - [YouTube](https://youtube.com/@theambientdronesofvirabelo) 
 - [Threads](https://www.threads.com/@virabelo.drone) 
-- [Twitter](https://www.twitter.com/virabelomusic) 
+- [Twitter](https://www.twitter.com/virabelomusic)
+
+Check Out Beginnings, the new release with The Musical Meanderings of Julian Overall with the Ambient Drones Virabelo. 
+![]() 
 ___
 Here are some of my ambient drone influences:
 
