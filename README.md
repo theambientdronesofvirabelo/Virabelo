@@ -1,4 +1,4 @@
-# Virabelo's Repository 
+) # Virabelo's Repository 
 Welcome to the GitHub repository of all things Virabelo.
 Virabelo is my ambient drone project. 
 
@@ -9,7 +9,7 @@ Virabelo is my ambient drone project.
 ***Latest Release:*** [**Nova Mistero [Album]**](https://archive.org/details/novamistero) 
 
 
-[![Nova Mistero](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/nova%20mistero-small.jpg)](https://archive.org/details/novamistero)]
+[![Nova Mistero](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/nova%20mistero-small.jpg)](https://archive.org/details/novamistero)
 ___
 #### Virabelo on the Interwebs
 - [Free Music Archive](https://freemusicarchive.org/music/virabelo/) 
