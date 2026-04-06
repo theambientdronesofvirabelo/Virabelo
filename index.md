@@ -1,5 +1,5 @@
 # The Undated Journal of Virabelo 
-![Beginnings](https://camo.githubusercontent.com/335937fd9532267e9901c98d7fe60c9a07389dd17666636d529be1a6af6c91f4/68747470733a2f2f667265656d75736963617263686976652e6f72672f6d757369632f6d75736963616c2d6d65616e646572696e67732f626567696e6e696e6773) 
+![Beginnings](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000062573.jpg) 
 
 ✵
 
