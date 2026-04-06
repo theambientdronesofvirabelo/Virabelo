@@ -1,7 +1,7 @@
 # The Undated Journal of Virabelo 
 ![Beginnings](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000062573.jpg) 
 
-Check out our new release, Beginnings   {Saxophone +Ambient} [Free Music Archive](https://freemusicarchive.org/music/musical-meanderings/beginnings) 
+Check out our new release, Beginnings   {Saxophone + Ambient} [Free Music Archive](https://freemusicarchive.org/music/musical-meanderings/beginnings) 
 
 ✵
 
