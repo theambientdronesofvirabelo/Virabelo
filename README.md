@@ -8,7 +8,6 @@ Virabelo is my ambient drone project.
 
 ***Latest Release:*** [**Nova Mistero [Album]**](https://archive.org/details/novamistero) 
 
-[![https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000062573.jpg](https://freemusicarchive.org/music/musical-meanderings/beginnings)] 
 
 ![Nova Mistero](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/nova%20mistero-small.jpg)](https://archive.org/details/novamistero) 
 ___
