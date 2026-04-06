@@ -10,7 +10,7 @@ Virabelo is my ambient drone project.
 
 [![https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000062573.jpg](https://freemusicarchive.org/music/musical-meanderings/beginnings)] 
 
-[![Nova Mistero](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/nova%20mistero-small.jpg)](https://archive.org/details/novamistero) 
+![Nova Mistero](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/nova%20mistero-small.jpg)](https://archive.org/details/novamistero) 
 ___
 #### Virabelo on the Interwebs
 - [Free Music Archive](https://freemusicarchive.org/music/virabelo/) 
