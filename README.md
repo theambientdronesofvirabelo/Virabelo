@@ -8,6 +8,8 @@ Virabelo is my ambient drone project.
 
 ***Latest Release:*** [**Nova Mistero [Album]**](https://archive.org/details/novamistero) 
 
+![https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000062573.jpg](https://freemusicarchive.org/music/musical-meanderings/beginnings) 
+
 [![Nova Mistero](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/nova%20mistero-small.jpg)](https://archive.org/details/novamistero) 
 ___
 #### Virabelo on the Interwebs
@@ -22,7 +24,7 @@ ___
 - [Twitter](https://www.twitter.com/virabelomusic)
 
 Check Out Beginnings, the new release with The Musical Meanderings of Julian Overall with the Ambient Drones Virabelo. 
-![]() 
+
 ___
 Here are some of my ambient drone influences:
 
