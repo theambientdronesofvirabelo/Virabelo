@@ -9,7 +9,8 @@ and a special Drone Day 2026 artist mix https://www.mixcloud.com/upload/virabelo
 
 ✵
 
-![Beginnings](https://freemusicarchive.org/music/musical-meanderings/beginnings) 
+[![Beginnings](https://freemusicarchive.org/image/?file=album_image%2FBoTmdyroCGBdj0ktWrL5hJU2oc3XkHGSruvpFnvv.jpg&width=290&height=290&type=album)](https://freemusicarchive.org/music/musical-meanderings/beginnings)
+
 
 ✵
 
