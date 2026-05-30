@@ -5,7 +5,7 @@ Here's my live performance of Oblation 2 https://youtu.be/TTHhaE-8f_E
 
 A live studio recording I captured last night of Oblation 2 https://archive.org/details/virabelo-oblation-2-drone-day-eve-2026-mix
 
-and a special Drone Day 2026 artist mix https://www.mixcloud.com/upload/virabelo/drone-day-2026-mix/
+and a special Drone Day 2026 artist mix https://www.mixcloud.com/virabelo/drone-day-2026-mix/
 
 ✵
 
