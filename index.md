@@ -1,7 +1,15 @@
 # The Undated Journal of Virabelo 
-![Beginnings](https://github.com/theambientdronesofvirabelo/Virabelo/blob/main/media/1000062573.jpg) 
+Happy Dr(((o)))ne Day Folks!
 
-Check out our new release, Beginnings   {Saxophone + Ambient} [Free Music Archive](https://freemusicarchive.org/music/musical-meanderings/beginnings) 
+Here's my live performance of Oblation 2 https://youtu.be/TTHhaE-8f_E
+
+A live studio recording I captured last night of Oblation 2 https://archive.org/details/virabelo-oblation-2-drone-day-eve-2026-mix
+
+and a special Drone Day 2026 artist mix https://www.mixcloud.com/upload/virabelo/drone-day-2026-mix/
+
+✵
+
+![Beginnings](https://freemusicarchive.org/music/musical-meanderings/beginnings) 
 
 ✵
 
